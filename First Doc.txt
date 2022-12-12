@@ -1,1 +1,8 @@
-I am unstoppable
+Scalability is the system ability to scale (allocate/deallocate) resources. 
+
+Agility is  the ability to scale quickly,
+
+ if that scaling is happening automatically then we are taking about elasticity. 
+
+All of them explain the system's ability to change resources at will.
+
